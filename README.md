@@ -1,38 +1,42 @@
 # NutriBot: Daily Nutrient Intake Suggestion Chatbot
 
 ## Problem Statement
-Many people struggle to maintain balanced nutrition in their daily diet due to lack of proper guidance. Our solution aims to provide personalized nutrient intake suggestions through an AI-based chatbot.
+Due to a variety of factors and a lack of direction many people struggle to have a nutritionally balanced diet. In order to overcome these issues we have chosen to provide a solution that will be tailored to your personal needs using AI and a chatbot.
+
 
 ## Our Solution
-We developed "NutriBot," a chatbot that interacts with users, understands their basic health parameters, and suggests daily nutrient and food intake recommendations accordingly.
+We have developed "NutriBot", a ChatBot that will chat with you about your basic health parameters and you will receive personalized daily nutrient and food intake recommendations.
+
 
 ## Features
-- Personalized daily nutrient intake suggestions based on user inputs (age, gender, weight, lifestyle).
-- Food item recommendations to fulfill nutritional needs.
-- Basic conversation abilities for a friendly experience.
+- Daily nutrient intake suggestions based on user inputs (age/gender/weight/lifestyle).
+- Food item recommendations to meet nutritional requirements.
+- Basic conversation capabilities for a personable experience.
 
-## Technology Stack (Planned / Prototype)
-- **Chatbot Framework**: Dialogflow / Rasa
-- **Backend**: Python (Flask APIs)
-- **Frontend**: Web Interface / Messenger Integration
-- **Database**: Firebase / MongoDB (for storing user data)
 
-## Current Status
-- Designed user interaction flow (intents and entities)
-- Basic prototype chatbot built with sample nutrient data
-- Future plan to integrate full personalized health profiles and dynamic meal plans.
+## Technology Stack (planned/prototype)
+- **Chatbot Framework**: Using Online chatbot maker.
+- **Frontend**: Web Interface.
+- **Database**: Firebase/MongoDB (for user data).
 
-## Future Scope
-- AI-based meal plan generation
-- Integration with fitness tracking apps
-- Multilingual chatbot version
+
+## Current Status 
+- Developed user interaction flow (intents and entities).
+- Developed a basic prototype chatbot with sample nutrient data.
+- Moving forward, plan to connect full personalized health profiles and dynamic meal plans. 
+
+
+## Future scope
+- AI generated meal plan.
+- Compatible fitness tracker integration.
+- Multilingual ChatBot version.
 
 ## Team Members
-- [Your Name]
-- [Teammate 1]
-- [Teammate 2]
+- Shantnu Biswas.
+- Rajdeep Chatterjee.
+- Utkarsh Khandelwal.
 
 ## Hackathon
-- Hackathon Name: [Hackathon Name Here]
-- Organized by: [Organizer Name Here]
-- Date: [Month Year]
+- Hackathon Name: PU Code Hackathon 1.O.
+- Organized by: Parul University.
+- Date: March 2024.
