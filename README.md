@@ -1,10 +1,10 @@
-# NutrientBuddy: Daily Nutrient Intake Suggestion Chatbot
+# NutriBot: Daily Nutrient Intake Suggestion Chatbot
 
 ## Problem Statement
 Many people struggle to maintain balanced nutrition in their daily diet due to lack of proper guidance. Our solution aims to provide personalized nutrient intake suggestions through an AI-based chatbot.
 
 ## Our Solution
-We developed "NutrientBuddy," a chatbot that interacts with users, understands their basic health parameters, and suggests daily nutrient and food intake recommendations accordingly.
+We developed "NutriBot," a chatbot that interacts with users, understands their basic health parameters, and suggests daily nutrient and food intake recommendations accordingly.
 
 ## Features
 - Personalized daily nutrient intake suggestions based on user inputs (age, gender, weight, lifestyle).
